@@ -1,5 +1,6 @@
 # IndusAI-python
 This is a repository of my internship of Python Programming from IndusAI solutions.
+
 Objective:
 
 1. Guess the Number Game
