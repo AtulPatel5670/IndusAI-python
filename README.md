@@ -7,7 +7,7 @@ This is a repository of my internship of Python Programming from IndusAI solutio
 
   _Description:_ A game where the computer randomly selects a number and the user has to guess it with hints provided.
 
-### 2. To-Do List Application
+### 2. [To-Do List Application](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective2ToDoListApplication.py)
 
   _Description:_ A simple CLI-based to-do list manager where users can add, view, and delete tasks.
 
