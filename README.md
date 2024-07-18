@@ -11,7 +11,7 @@ This is a repository of my internship of Python Programming from IndusAI solutio
 
   _Description:_ A simple CLI-based to-do list manager where users can add, view, and delete tasks.
 
-### 3. Weather API Fetcher
+### 3. [Weather API Fetcher](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective3WeatherAPIfetcher.py)
 
   _Description:_ A program that fetches and displays the current weather of a specified location using an API.
 
