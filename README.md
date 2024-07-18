@@ -15,7 +15,7 @@ This is a repository of my internship of Python Programming from IndusAI solutio
 
   _Description:_ A program that fetches and displays the current weather of a specified location using an API.
 
-### 4. Basic Web Scraper
+### 4. [Basic Web Scraper](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective4BasicWebScraper.py)
 
   _Description:_ A program that extracts data from a given website and displays the information in a readable format.
 
