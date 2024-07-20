@@ -19,7 +19,7 @@ This is a repository of my internship of Python Programming from IndusAI solutio
 
   _Description:_ A program that extracts data from a given website and displays the information in a readable format.
 
-### 5. Text-Based Adventure Game
+### 5. (Text-Based Adventure Game](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective5TextBasedAdventureGame.py)
 
   _Description:_ An interactive game where players navigate through a story by making choices at each step.
 
