@@ -19,11 +19,11 @@ This is a repository of my internship of Python Programming from IndusAI solutio
 
   _Description:_ A program that extracts data from a given website and displays the information in a readable format.
 
-### 5. (Text-Based Adventure Game](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective5TextBasedAdventureGame.py)
+### 5. [Text-Based Adventure Game](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective5TextBasedAdventureGame.py)
 
   _Description:_ An interactive game where players navigate through a story by making choices at each step.
 
-### 6. Simple Personal Budget Tracker
+### 6. [Simple Personal Budget Tracker](https://github.com/AtulPatel5670/IndusAI-python/blob/main/objective6SimplePersonalBudgetTracker.py)
 
   _Description:_ A program to help users track their income and expenses, providing a summary of their financial status.
 
